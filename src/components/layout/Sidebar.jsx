@@ -85,7 +85,7 @@ const Sidebar = ({ categories, activeCategory, onCategoryChange }) => {
                 onCategoryChange(category.id)
                 setIsMobileMenuOpen(false)
               }}
-              className={`nav-link w-full ${activeCategory === category.id ? 'active' : ''}`}
+              className={`nav-link w-full whitespace-nowrap ${activeCategory === category.id ? 'active' : ''}`}
             >
               <span className="material-icons-round">
                 {categoryIcons[category.id] || 'folder'}
