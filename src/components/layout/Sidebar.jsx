@@ -9,7 +9,7 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 
 // Profile image - local image in public folder
-const PROFILE_IMAGE = '/images/prem.jpg'
+const PROFILE_IMAGE = '/portfolio-website/images/prem.jpg'
 
 // Icon mapping for categories
 const categoryIcons = {
