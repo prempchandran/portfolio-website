@@ -9,7 +9,7 @@ A modern, interactive portfolio website built with React and Tailwind CSS. Featu
 
 ## ✨ Features
 
-- **Sidebar Navigation** - Sticky sidebar with profile info and category links
+- **Sidebar Navigation** - Stick sidebar with profile info and category links
 - **Category Filtering** - Filter projects by AI, Processing, Audio, etc.
 - **Content Type Filters** - ALL, CODE, VISUALS, AUDIO toggles
 - **Search Functionality** - Real-time project search
